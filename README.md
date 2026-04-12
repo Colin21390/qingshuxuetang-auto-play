@@ -1,1 +1,1 @@
-在Chromium内核浏览器安装Tampermonkey插件,打开管理面板,在实用工具栏导入txt文件,打开视频页面,脚本会自动运行
+在Chromium内核浏览器安装Tampermonkey插件,打开管理面板,在实用工具栏导入txt文件,进入视频播放页面,脚本会自动运行
